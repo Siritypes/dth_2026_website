@@ -1,16 +1,15 @@
 # Advantages of Open Source Software
 
-## This is the headline of your first page
+## What is open source software?
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
+Open source software is software that is freely available to the public. Its underlying code can be viewed and changed by anyone, which allows users and developers to adapt it to their needs and contribute to its further development.
+Anyone can use it for any reason, be it students, teachers, individuals or commercial businesses. Examples for open source software include Linux, Mozilla Firefox and Audacity. But what are the advantages of it and who benefits from it?
 
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
+### Who benefits from open source software?
 
-- one item
-- another item
+Developers and engineers can contribute to public open-source projects on platforms like GitHub which can help them to showcase their skills to prospective employers.
 
-### A smaller headline
 
-You can also add images from the assets folder:
+
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
