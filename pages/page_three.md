@@ -20,3 +20,6 @@ I would consider LanguageTool a reliable tool for supporting my academic writing
 
 - https://github.com/languagetool-org/languagetool?tab=LGPL-2.1-1-ov-file 
 
+- https://languagetool.org/de 
+
+
