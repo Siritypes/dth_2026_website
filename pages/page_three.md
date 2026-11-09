@@ -15,3 +15,8 @@ It would be particularly useful for my studies because I regularly write academi
 
 ## My Verdict
 I would consider LanguageTool a reliable tool for supporting my academic writing, particularly because it supports several languages and is actively developed. Its open source nature also means that the core software can be inspected and modified. I would feel comfortable using it throughout my master's thesis, but I would not rely on it as my only proofreading method. I would still need to check its suggestions myself. If I had to stop using it, I could also switch to another proofreading tool without losing my original documents, so I would not have to rely on this tool alone.
+
+# Sources
+
+- https://github.com/languagetool-org/languagetool?tab=LGPL-2.1-1-ov-file 
+
