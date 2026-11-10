@@ -226,4 +226,11 @@ main img {
   transform: scale(1);
 }
 
+#content p,
+#content li,
+#content ol,
+#content ul {
+  font-weight: 300;
+}
+
 
