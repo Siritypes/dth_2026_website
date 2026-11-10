@@ -1,6 +1,6 @@
 # Advantages of Open Source Software
 
-## What is open source software?
+## What is?
 
 Open source software is software that is freely available to the public. Its code can be viewed and changed by anyone, which allows users and developers to adapt it to their needs and contribute to its development.
 Anyone can use it, be it students, teachers or commercial businesses. Examples for open source software include Linux, Mozilla Firefox and Audacity. But what are the advantages of it?
