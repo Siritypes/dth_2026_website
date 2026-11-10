@@ -22,11 +22,11 @@ I would consider LanguageTool a reliable tool for supporting my academic writing
 
 ## Text Sources
 
-- https://github.com/languagetool-org/languagetool?tab=LGPL-2.1-1-ov-file 
+- LanguageTool. (n.d.). LanguageTool: <em>Style and grammar checker for 25+ languages</em> [Source code]. GitHub. https://github.com/languagetool-org/languagetool?tab=LGPL-2.1-1-ov-file 
 
-- https://languagetool.org/de 
+- LanguageTool. (n.d.). <em>LanguageTool – Rechtschreib- und Grammatikprüfung</em>. https://languagetool.org/de 
 
-- https://languagetool.org/de/dev 
+- LanguageTool. (n.d.). <em>Open source</em>. https://languagetool.org/de/dev 
 
 
 
