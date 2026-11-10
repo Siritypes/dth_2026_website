@@ -35,11 +35,8 @@ Anyone can use it, be it students, teachers or commercial businesses. Examples f
 
 ## Image Sources
 
-- Open Circle (n.d.). Open-source software [Image]. https://www.open-circle.ch/wp-content/uploads/Open-Source-Software-L.jpg
+- Open Circle (n.d.). <em>Open-source software</em> [Image]. https://www.open-circle.ch/wp-content/uploads/Open-Source-Software-L.jpg
 
-- Muhamad Naris, E. (n.d.). Single one line drawing of arm hands with thumbs up gesture sign [Vector illustration]. Vecteezy. https://img.magnific.com/premium-vector/single-one-line-drawing-arm-hands-with-thumbs-up-gesture-sign-good-service-excellence-business-industry-sector-symbol-concept-modern-continuous-line-draw-design-graphic-vector-illustration_620206-5206.jpg?semt=ais_hybrid&w=740&q=80
+- Muhamad Naris, E. (n.d.). <em>Single one line drawing of arm hands with thumbs up gesture sign</em> [Vector illustration]. Vecteezy. https://img.magnific.com/premium-vector/single-one-line-drawing-arm-hands-with-thumbs-up-gesture-sign-good-service-excellence-business-industry-sector-symbol-concept-modern-continuous-line-draw-design-graphic-vector-illustration_620206-5206.jpg?semt=ais_hybrid&w=740&q=80
 
-- Vecteezy (n.d.). Continuous one-line up thumb icon [Vector illustration]. https://static.vecteezy.com/system/resources/previews/079/880/064/non_2x/continuous-one-line-up-thumb-ikon-like-hand-down-drawing-good-up-down-thumb-dislike-media-art-ok-social-feedback-finger-illustration-sign-okey-creative-vote-yes-positive-community-linear-concept-vector.jpg 
-
-
-[def]: ./assets/images/opensource.jpg
+- Vecteezy (n.d.). <em>Continuous one-line up thumb icon</em> [Vector illustration]. https://static.vecteezy.com/system/resources/previews/079/880/064/non_2x/continuous-one-line-up-thumb-ikon-like-hand-down-drawing-good-up-down-thumb-dislike-media-art-ok-social-feedback-finger-illustration-sign-okey-creative-vote-yes-positive-community-linear-concept-vector.jpg 
