@@ -18,7 +18,7 @@ It would be particularly useful for my studies because I regularly write academi
 <strong>5. Money:</strong> The project has received funding from the European Union, the European Regional Development Fund and the European Social Fund. The commercial LanguageTool service also offers Premium subscriptions.
 
 ## My Verdict
-I would consider LanguageTool a reliable tool for supporting my academic writing, particularly because it supports several languages and is being actively developed. That it is open source also means that the software can be inspected and modified. I would feel comfortable using it throughout my master's thesis, but I would not rely on it as my only proofreading method. I would still need to check its suggestions myself. If I had to stop using it, I could also switch to another proofreading tool without losing my original documents, so I would not have to rely on this tool alone.
+I would consider LanguageTool a reliable tool for supporting my academic writing, particularly because it supports several languages and is being actively developed. That it is open source also means that the software can be inspected and modified. I would feel comfortable using it throughout my master's thesis, but I would not rely on it as my only proofreading method. I would still need to check its suggestions myself. If I had to stop using it, I could switch to another tool without losing my original documents, so I would not have to rely on this tool alone.
 
 ![Computer Screen](./assets/images/ComputerScreen.jpg)
 
