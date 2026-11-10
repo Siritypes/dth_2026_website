@@ -15,11 +15,11 @@ Although open source software offers many advantages, it also comes with some ch
 
 ## Text Sources
 
-- https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
+- nibusinessinfo.co.uk. (n.d.). <em>Disadvantages of open source software</em>. https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
 
-- https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/
+- Pratt, M. K. (October 25, 2022). <em>5 advantages and 6 disadvantages of open source software</em>. TechTarget. https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/
 
-- https://link.springer.com/chapter/10.1007/978-0-387-72486-7_33
+- Morgan, L., & Finnegan, P. (2007). Benefits and drawbacks of open source software: An exploratory study of secondary software firms. In J. Feller, B. Fitzgerald, W. Scacchi, & A. Sillitti (Eds.), <em>Open source development, adoption and innovation</em> (pp. 307–312). Springer. https://link.springer.com/chapter/10.1007/978-0-387-72486-7_33
 
-- https://www.rhsmith.umd.edu/research/pros-and-cons-open-source
+- Robert H. Smith School of Business. (April 9, 2019). <em>The pros and cons of open source</em>. https://www.rhsmith.umd.edu/research/pros-and-cons-open-source
 
