@@ -56,7 +56,7 @@ section {
 }
 
 #navBar>a:hover {
-  color: var(--green);
+  color: var(--blue);
   cursor: pointer;
 }
 .navLink:hover {
