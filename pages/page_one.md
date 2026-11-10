@@ -1,14 +1,14 @@
 # Advantages of Open Source Software
 
-## What is?
+## What is open source software?
 
 Open source software is software that is freely available to the public. Its code can be viewed and changed by anyone, which allows users and developers to adapt it to their needs and contribute to its development.
 Anyone can use it, be it students, teachers or commercial businesses. Examples for open source software include Linux, Mozilla Firefox and Audacity. But what are the advantages of it?
 
 ## What are the advantages of open source software?
 
-- Students: Open source software makes digital tools more accessible, especially for students who might not be able to afford expensive licenses. For example, they can use LibreOffice as a free alternative to Microsoft Office to write essays etc. It also gives them the opportunity to explore how software works and to develop technical skills.
-- Researchers: Open source tools support academic research by allowing researchers to share tools and methods with other researchers which can make their collaboration easier. A 2025 University of California survey found that 92% of researchers considered open-source software important for their work.
+- Students: Open source software makes digital tools more accessible, especially for students who might not be able to afford expensive licenses. For example, they can use LibreOffice as a free alternative to Microsoft Office to write essays etc. It also gives them the opportunity to explore how a software works and to develop technical skills.
+- Researchers: Open source tools support academic research by allowing researchers to share tools and methods with other researchers which can make their collaboration easier. 
 - Municipalities and public organisations: They can save money by using open source alternatives instead of paying for expensive software licenses. For example, the Dutch municipality of Neerijnen switched to LibreOffice and saved approximately 9.000€-13.500€ annually in licensing costs.
 
 
@@ -30,6 +30,8 @@ Anyone can use it, be it students, teachers or commercial businesses. Examples f
 - https://project.linuxfoundation.org/hubfs/Reports/Why-open-source-software-matters-to-your-enterprise_090820.pdf?hsLang=en&utm_source=chatgpt.com
 
 - https://github.com/resources/articles/what-is-open-source-software?utm_source=chatgpt.com&locale=de-de
+
+- https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/libreoffice-municipality-neerijnen
 
 ## Image Sources
 
