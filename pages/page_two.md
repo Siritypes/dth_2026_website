@@ -11,9 +11,8 @@ Although open source software offers many advantages, it also comes with some ch
 ![Thumbs Down](./assets/images/ThumbsDown.jpg)
 
 
-# Sources
+# References
 
-## Text Sources
 
 - nibusinessinfo.co.uk. (n.d.). <em>Disadvantages of open source software</em>. https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
 

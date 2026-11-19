@@ -17,9 +17,7 @@ Anyone can use it, be it students, teachers or commercial businesses. Examples f
 
 
 
-# Sources
-
-## Text Sources
+# References
 
 - Senz, K. (September 5, 2018). <em>The hidden benefit of giving back to open source software</em>. Harvard Business School Working Knowledge. https://www.library.hbs.edu/working-knowledge/the-hidden-benefit-of-giving-back-to-open-source-software
 
@@ -33,7 +31,7 @@ Anyone can use it, be it students, teachers or commercial businesses. Examples f
 
 - European Commission (November 24, 2014). <em>LibreOffice in the municipality of Neerijnen</em>. Interoperable Europe Portal. https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/libreoffice-municipality-neerijnen
 
-## Image Sources
+
 
 - Open Circle (n.d.). <em>Open-source software</em> [Image]. https://www.open-circle.ch/wp-content/uploads/Open-Source-Software-L.jpg
 

@@ -22,9 +22,7 @@ I would consider LanguageTool a reliable tool for supporting my academic writing
 
 ![Computer Screen](./assets/images/ComputerScreen.jpg)
 
-# Sources
-
-## Text Sources
+# References
 
 - LanguageTool. (n.d.). LanguageTool: <em>Style and grammar checker for 25+ languages</em> [Source code]. GitHub. https://github.com/languagetool-org/languagetool?tab=LGPL-2.1-1-ov-file 
 
