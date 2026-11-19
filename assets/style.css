@@ -237,3 +237,7 @@ main img {
   color: #5899e2;
 }
 
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
